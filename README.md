@@ -73,5 +73,5 @@ For example:
 
 Similarly, you can find indicators related to **teachers, expenditure, literacy rates, and more** by modifying the code. Visit the **World Bank Open Data Portal** ([[https://data.humdata.org/dataset/world-bank-education-indicators-for-algeria])) to check the full list of available indicators.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/abdessamed-ouahabi/])
+[LinkedIn]([https://www.linkedin.com/in/abdessamed-ouahabi/])
 
