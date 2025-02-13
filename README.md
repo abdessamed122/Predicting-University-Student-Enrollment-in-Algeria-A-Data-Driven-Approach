@@ -32,7 +32,9 @@ A **linear regression model** was trained on 80% of the data (1971–2010), with
 ---
 
 ### **Predictions for 2024**  
-Using the trained model, university enrollment in Algeria is projected to reach **1.86 million students by 2024**   
+Using the trained model, university enrollment in Algeria is projected to reach **1.86 million students by 2024** 
+⑴<img width="675" alt="Capture d'écran 2025-02-13 2231125" src="https://github.com/user-attachments/assets/620f8d06-e513-4a68-a71d-7b028c487b73" />
+
 
 ---
 
@@ -72,6 +74,9 @@ For example:
 - **SE.TER.ENR** → Tertiary (higher) education enrollment  
 
 Similarly, you can find indicators related to **teachers, expenditure, literacy rates, and more** by modifying the code. Visit the **World Bank Open Data Portal** ([[https://data.humdata.org/dataset/world-bank-education-indicators-for-algeria])) to check the full list of available indicators.
+
+⑴https://www.aps.dz/ar/sante-science-technologie/168710-2025-2024-800#:~:text=%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84%20%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D9%8A%202025%2F2024%20%3A%20%D8%A3%D8%B2%D9%8A%D8%AF,%D8%A8%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA%20%D8%B9%D8%A8%D8%B1%20%D9%85%D8%AE%D8%AA%D9%84%D9%81%20%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D9%88%D8%B7%D9%86
+
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/abdessamed-ouahabi)
 
