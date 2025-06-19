@@ -67,6 +67,7 @@ This dataset contains a large number of education-related indicators from the **
 To explore other indicators, you can simply **change the indicator code** while keeping the structure of the dataset. 
 <img width="502" alt="image" src="https://github.com/user-attachments/assets/225a0100-4e9b-4856-b136-dd813c37575d" />
  
+![Green and Beige Modern Professional Academic Research Poster](https://github.com/user-attachments/assets/f510dcc6-5fd9-4d7d-8152-d23486bdc0d5)
 
 For example:  
 - **SE.PRM.ENR** → Primary school enrollment  
