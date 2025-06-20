@@ -6,6 +6,7 @@
 Predicting university enrollment is critical for educational planning, resource allocation, and policy development. Using Algeria’s historical tertiary education enrollment data (1971–2018), this analysis employs linear regression to forecast future student numbers, offering insights into potential trends and challenges.  
 
 ---
+![Green and Beige Modern Professional Academic Research Poster](https://github.com/user-attachments/assets/364ef4ca-2e89-4622-991b-254495eb73ec)
 
 ### **Methodology**  
 
